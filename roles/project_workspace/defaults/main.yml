@@ -1,0 +1,5 @@
+---
+project_name: "devops_project"
+workspace_path: "{{ ansible_env.HOME }}/{{ project_name }}"
+student_name: "Sai Pranav S R"
+project_purpose: "Workspace for organizing source code, logs, and reports"
